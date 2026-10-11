@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chrysler_Crossfire"
+
+generations:
+  - name: "First Generation (ZH)"
+    start_year: 2004
+    end_year: 2008
+    description: "A coupe and roadster built by Karmann on the Mercedes-Benz R170 SLK platform, with the 3.2 L M112 V6."
